@@ -155,7 +155,7 @@ const commands = {
                     assert.equal(text.value, 'No Skills', "contains no skill");
                 }
                 else {
-                    console.log('contains some skill')
+                    console.log('contains some skill of nasher')
                 }
             })
     }
